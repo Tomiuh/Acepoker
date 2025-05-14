@@ -1,0 +1,1 @@
+export default function Articles() { return (<div className='p-8'><h1 className='text-4xl font-bold mb-6'>Artículos de AcePoker</h1><ul className='space-y-6 text-gray-300'><li><h2 className='text-2xl font-semibold text-blue-400'>Errores comunes</h2><p>No jugar por posición, pagar sin odds, etc.</p></li></ul></div>); }

@@ -1,0 +1,1 @@
+export default function Videos() { return (<div className='p-8'><h1 className='text-4xl font-bold mb-6'>Vídeos de AcePoker</h1><div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6'><iframe className='w-full h-48 rounded' src='https://www.youtube.com/embed/_n-v0CZpPuM' title='Final WSOP' frameBorder='0' allowFullScreen></iframe></div></div>); }
